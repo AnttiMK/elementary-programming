@@ -3,4 +3,4 @@ My take on our school's Elementary Programming course's final project, "A Wee Bi
 
 # License
 
-`laatikosto.py` and the included sprites are course-provided and licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). I reserve full rights to the game implementation.
+`haravasto.py` and the included sprites are course-provided and licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). I reserve full rights to the game implementation.
